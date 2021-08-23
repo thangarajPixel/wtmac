@@ -1,0 +1,86 @@
+[13-Jul-2021 06:31:05 UTC] PHP Warning:  Use of undefined constant BASE_URL - assumed 'BASE_URL' (this will throw an Error in a future version of PHP) in /home/clhnfq6ud8am/public_html/clients/welsbach/demo/index.php on line 335
+[13-Jul-2021 06:31:12 UTC] PHP Warning:  Use of undefined constant BASE_URL - assumed 'BASE_URL' (this will throw an Error in a future version of PHP) in /home/clhnfq6ud8am/public_html/clients/welsbach/demo/index.php on line 335
+[13-Jul-2021 06:33:07 UTC] PHP Warning:  Use of undefined constant BASE_URL - assumed 'BASE_URL' (this will throw an Error in a future version of PHP) in /home/clhnfq6ud8am/public_html/clients/welsbach/demo/index.php on line 335
+[13-Jul-2021 06:33:07 UTC] PHP Warning:  Use of undefined constant BASE_URL - assumed 'BASE_URL' (this will throw an Error in a future version of PHP) in /home/clhnfq6ud8am/public_html/clients/welsbach/demo/index.php on line 335
+[13-Jul-2021 06:33:09 UTC] PHP Warning:  Use of undefined constant BASE_URL - assumed 'BASE_URL' (this will throw an Error in a future version of PHP) in /home/clhnfq6ud8am/public_html/clients/welsbach/demo/index.php on line 335
+[13-Jul-2021 06:34:07 UTC] PHP Warning:  Use of undefined constant BASE_URL - assumed 'BASE_URL' (this will throw an Error in a future version of PHP) in /home/clhnfq6ud8am/public_html/clients/welsbach/demo/index.php on line 335
+[13-Jul-2021 06:34:09 UTC] PHP Warning:  Use of undefined constant BASE_URL - assumed 'BASE_URL' (this will throw an Error in a future version of PHP) in /home/clhnfq6ud8am/public_html/clients/welsbach/demo/index.php on line 335
+[13-Jul-2021 06:35:36 UTC] PHP Notice:  Undefined index: aname in /home/clhnfq6ud8am/public_html/clients/welsbach/demo/thanks.php on line 61
+[13-Jul-2021 06:35:36 UTC] PHP Notice:  Undefined index: aphone in /home/clhnfq6ud8am/public_html/clients/welsbach/demo/thanks.php on line 62
+[13-Jul-2021 06:35:36 UTC] PHP Notice:  Undefined index: aemail in /home/clhnfq6ud8am/public_html/clients/welsbach/demo/thanks.php on line 63
+[13-Jul-2021 06:35:36 UTC] PHP Notice:  Undefined index: amessage in /home/clhnfq6ud8am/public_html/clients/welsbach/demo/thanks.php on line 64
+[13-Jul-2021 06:35:36 UTC] PHP Notice:  Undefined index: source in /home/clhnfq6ud8am/public_html/clients/welsbach/demo/thanks.php on line 65
+[13-Jul-2021 06:35:36 UTC] PHP Notice:  Undefined variable: alocation in /home/clhnfq6ud8am/public_html/clients/welsbach/demo/thanks.php on line 118
+[13-Jul-2021 06:35:36 UTC] PHP Warning:  Use of undefined constant BASE_URL - assumed 'BASE_URL' (this will throw an Error in a future version of PHP) in /home/clhnfq6ud8am/public_html/clients/welsbach/demo/thanks.php on line 190
+[13-Jul-2021 06:36:21 UTC] PHP Notice:  Undefined index: aname in /home/clhnfq6ud8am/public_html/clients/welsbach/demo/thanks.php on line 61
+[13-Jul-2021 06:36:21 UTC] PHP Notice:  Undefined index: aphone in /home/clhnfq6ud8am/public_html/clients/welsbach/demo/thanks.php on line 62
+[13-Jul-2021 06:36:21 UTC] PHP Notice:  Undefined index: aemail in /home/clhnfq6ud8am/public_html/clients/welsbach/demo/thanks.php on line 63
+[13-Jul-2021 06:36:21 UTC] PHP Notice:  Undefined index: amessage in /home/clhnfq6ud8am/public_html/clients/welsbach/demo/thanks.php on line 64
+[13-Jul-2021 06:36:21 UTC] PHP Notice:  Undefined index: source in /home/clhnfq6ud8am/public_html/clients/welsbach/demo/thanks.php on line 65
+[13-Jul-2021 06:36:21 UTC] PHP Notice:  Undefined variable: alocation in /home/clhnfq6ud8am/public_html/clients/welsbach/demo/thanks.php on line 118
+[13-Jul-2021 06:36:21 UTC] PHP Warning:  Use of undefined constant BASE_URL - assumed 'BASE_URL' (this will throw an Error in a future version of PHP) in /home/clhnfq6ud8am/public_html/clients/welsbach/demo/thanks.php on line 190
+[13-Jul-2021 06:37:21 UTC] PHP Notice:  Undefined index: aname in /home/clhnfq6ud8am/public_html/clients/welsbach/demo/thanks.php on line 61
+[13-Jul-2021 06:37:21 UTC] PHP Notice:  Undefined index: aphone in /home/clhnfq6ud8am/public_html/clients/welsbach/demo/thanks.php on line 62
+[13-Jul-2021 06:37:21 UTC] PHP Notice:  Undefined index: aemail in /home/clhnfq6ud8am/public_html/clients/welsbach/demo/thanks.php on line 63
+[13-Jul-2021 06:37:21 UTC] PHP Notice:  Undefined index: amessage in /home/clhnfq6ud8am/public_html/clients/welsbach/demo/thanks.php on line 64
+[13-Jul-2021 06:37:21 UTC] PHP Notice:  Undefined index: source in /home/clhnfq6ud8am/public_html/clients/welsbach/demo/thanks.php on line 65
+[13-Jul-2021 06:37:21 UTC] PHP Notice:  Undefined variable: alocation in /home/clhnfq6ud8am/public_html/clients/welsbach/demo/thanks.php on line 118
+[13-Jul-2021 06:37:21 UTC] PHP Warning:  Use of undefined constant BASE_URL - assumed 'BASE_URL' (this will throw an Error in a future version of PHP) in /home/clhnfq6ud8am/public_html/clients/welsbach/demo/thanks.php on line 190
+[13-Jul-2021 06:39:44 UTC] PHP Notice:  Undefined index: aname in /home/clhnfq6ud8am/public_html/clients/welsbach/demo/thanks.php on line 61
+[13-Jul-2021 06:39:44 UTC] PHP Notice:  Undefined index: aphone in /home/clhnfq6ud8am/public_html/clients/welsbach/demo/thanks.php on line 62
+[13-Jul-2021 06:39:44 UTC] PHP Notice:  Undefined index: aemail in /home/clhnfq6ud8am/public_html/clients/welsbach/demo/thanks.php on line 63
+[13-Jul-2021 06:39:44 UTC] PHP Notice:  Undefined index: amessage in /home/clhnfq6ud8am/public_html/clients/welsbach/demo/thanks.php on line 64
+[13-Jul-2021 06:39:44 UTC] PHP Notice:  Undefined index: source in /home/clhnfq6ud8am/public_html/clients/welsbach/demo/thanks.php on line 65
+[13-Jul-2021 06:39:44 UTC] PHP Notice:  Undefined variable: alocation in /home/clhnfq6ud8am/public_html/clients/welsbach/demo/thanks.php on line 118
+[13-Jul-2021 06:39:45 UTC] PHP Warning:  Use of undefined constant BASE_URL - assumed 'BASE_URL' (this will throw an Error in a future version of PHP) in /home/clhnfq6ud8am/public_html/clients/welsbach/demo/thanks.php on line 190
+[13-Jul-2021 06:40:31 UTC] PHP Notice:  Undefined index: aname in /home/clhnfq6ud8am/public_html/clients/welsbach/demo/thanks.php on line 63
+[13-Jul-2021 06:40:31 UTC] PHP Notice:  Undefined index: aphone in /home/clhnfq6ud8am/public_html/clients/welsbach/demo/thanks.php on line 64
+[13-Jul-2021 06:40:31 UTC] PHP Notice:  Undefined index: aemail in /home/clhnfq6ud8am/public_html/clients/welsbach/demo/thanks.php on line 65
+[13-Jul-2021 06:40:32 UTC] PHP Notice:  Undefined index: amessage in /home/clhnfq6ud8am/public_html/clients/welsbach/demo/thanks.php on line 66
+[13-Jul-2021 06:40:32 UTC] PHP Notice:  Undefined index: source in /home/clhnfq6ud8am/public_html/clients/welsbach/demo/thanks.php on line 67
+[13-Jul-2021 06:40:32 UTC] PHP Notice:  Undefined variable: alocation in /home/clhnfq6ud8am/public_html/clients/welsbach/demo/thanks.php on line 120
+[13-Jul-2021 06:40:32 UTC] PHP Warning:  Use of undefined constant BASE_URL - assumed 'BASE_URL' (this will throw an Error in a future version of PHP) in /home/clhnfq6ud8am/public_html/clients/welsbach/demo/thanks.php on line 192
+[13-Jul-2021 06:42:50 UTC] PHP Notice:  Undefined index: aname in /home/clhnfq6ud8am/public_html/clients/welsbach/demo/thanks.php on line 63
+[13-Jul-2021 06:42:50 UTC] PHP Notice:  Undefined index: aphone in /home/clhnfq6ud8am/public_html/clients/welsbach/demo/thanks.php on line 64
+[13-Jul-2021 06:42:50 UTC] PHP Notice:  Undefined index: aemail in /home/clhnfq6ud8am/public_html/clients/welsbach/demo/thanks.php on line 65
+[13-Jul-2021 06:42:50 UTC] PHP Notice:  Undefined index: amessage in /home/clhnfq6ud8am/public_html/clients/welsbach/demo/thanks.php on line 66
+[13-Jul-2021 06:42:50 UTC] PHP Notice:  Undefined index: source in /home/clhnfq6ud8am/public_html/clients/welsbach/demo/thanks.php on line 67
+[13-Jul-2021 06:42:50 UTC] PHP Notice:  Undefined variable: alocation in /home/clhnfq6ud8am/public_html/clients/welsbach/demo/thanks.php on line 120
+[13-Jul-2021 06:42:50 UTC] PHP Warning:  Use of undefined constant BASE_URL - assumed 'BASE_URL' (this will throw an Error in a future version of PHP) in /home/clhnfq6ud8am/public_html/clients/welsbach/demo/thanks.php on line 192
+[13-Jul-2021 06:42:50 UTC] PHP Notice:  Undefined index: aname in /home/clhnfq6ud8am/public_html/clients/welsbach/demo/thanks.php on line 63
+[13-Jul-2021 06:42:50 UTC] PHP Notice:  Undefined index: aphone in /home/clhnfq6ud8am/public_html/clients/welsbach/demo/thanks.php on line 64
+[13-Jul-2021 06:42:50 UTC] PHP Notice:  Undefined index: aemail in /home/clhnfq6ud8am/public_html/clients/welsbach/demo/thanks.php on line 65
+[13-Jul-2021 06:42:50 UTC] PHP Notice:  Undefined index: amessage in /home/clhnfq6ud8am/public_html/clients/welsbach/demo/thanks.php on line 66
+[13-Jul-2021 06:42:50 UTC] PHP Notice:  Undefined index: source in /home/clhnfq6ud8am/public_html/clients/welsbach/demo/thanks.php on line 67
+[13-Jul-2021 06:42:50 UTC] PHP Notice:  Undefined variable: alocation in /home/clhnfq6ud8am/public_html/clients/welsbach/demo/thanks.php on line 120
+[13-Jul-2021 06:42:50 UTC] PHP Notice:  Undefined index: aname in /home/clhnfq6ud8am/public_html/clients/welsbach/demo/thanks.php on line 63
+[13-Jul-2021 06:42:50 UTC] PHP Notice:  Undefined index: aphone in /home/clhnfq6ud8am/public_html/clients/welsbach/demo/thanks.php on line 64
+[13-Jul-2021 06:42:50 UTC] PHP Notice:  Undefined index: aemail in /home/clhnfq6ud8am/public_html/clients/welsbach/demo/thanks.php on line 65
+[13-Jul-2021 06:42:50 UTC] PHP Notice:  Undefined index: amessage in /home/clhnfq6ud8am/public_html/clients/welsbach/demo/thanks.php on line 66
+[13-Jul-2021 06:42:50 UTC] PHP Notice:  Undefined index: source in /home/clhnfq6ud8am/public_html/clients/welsbach/demo/thanks.php on line 67
+[13-Jul-2021 06:42:50 UTC] PHP Notice:  Undefined variable: alocation in /home/clhnfq6ud8am/public_html/clients/welsbach/demo/thanks.php on line 120
+[13-Jul-2021 06:42:50 UTC] PHP Warning:  Use of undefined constant BASE_URL - assumed 'BASE_URL' (this will throw an Error in a future version of PHP) in /home/clhnfq6ud8am/public_html/clients/welsbach/demo/thanks.php on line 192
+[13-Jul-2021 06:42:50 UTC] PHP Warning:  Use of undefined constant BASE_URL - assumed 'BASE_URL' (this will throw an Error in a future version of PHP) in /home/clhnfq6ud8am/public_html/clients/welsbach/demo/thanks.php on line 192
+[13-Jul-2021 06:42:50 UTC] PHP Notice:  Undefined index: aname in /home/clhnfq6ud8am/public_html/clients/welsbach/demo/thanks.php on line 63
+[13-Jul-2021 06:42:50 UTC] PHP Notice:  Undefined index: aphone in /home/clhnfq6ud8am/public_html/clients/welsbach/demo/thanks.php on line 64
+[13-Jul-2021 06:42:50 UTC] PHP Notice:  Undefined index: aemail in /home/clhnfq6ud8am/public_html/clients/welsbach/demo/thanks.php on line 65
+[13-Jul-2021 06:42:50 UTC] PHP Notice:  Undefined index: amessage in /home/clhnfq6ud8am/public_html/clients/welsbach/demo/thanks.php on line 66
+[13-Jul-2021 06:42:50 UTC] PHP Notice:  Undefined index: source in /home/clhnfq6ud8am/public_html/clients/welsbach/demo/thanks.php on line 67
+[13-Jul-2021 06:42:50 UTC] PHP Notice:  Undefined variable: alocation in /home/clhnfq6ud8am/public_html/clients/welsbach/demo/thanks.php on line 120
+[13-Jul-2021 06:42:50 UTC] PHP Warning:  Use of undefined constant BASE_URL - assumed 'BASE_URL' (this will throw an Error in a future version of PHP) in /home/clhnfq6ud8am/public_html/clients/welsbach/demo/thanks.php on line 192
+[13-Jul-2021 06:43:08 UTC] PHP Notice:  Undefined index: aname in /home/clhnfq6ud8am/public_html/clients/welsbach/demo/thanks.php on line 63
+[13-Jul-2021 06:43:08 UTC] PHP Notice:  Undefined index: aphone in /home/clhnfq6ud8am/public_html/clients/welsbach/demo/thanks.php on line 64
+[13-Jul-2021 06:43:08 UTC] PHP Notice:  Undefined index: aemail in /home/clhnfq6ud8am/public_html/clients/welsbach/demo/thanks.php on line 65
+[13-Jul-2021 06:43:09 UTC] PHP Notice:  Undefined index: amessage in /home/clhnfq6ud8am/public_html/clients/welsbach/demo/thanks.php on line 66
+[13-Jul-2021 06:43:09 UTC] PHP Notice:  Undefined index: source in /home/clhnfq6ud8am/public_html/clients/welsbach/demo/thanks.php on line 67
+[13-Jul-2021 06:43:09 UTC] PHP Notice:  Undefined variable: alocation in /home/clhnfq6ud8am/public_html/clients/welsbach/demo/thanks.php on line 120
+[13-Jul-2021 06:43:09 UTC] PHP Warning:  Use of undefined constant BASE_URL - assumed 'BASE_URL' (this will throw an Error in a future version of PHP) in /home/clhnfq6ud8am/public_html/clients/welsbach/demo/thanks.php on line 192
+[13-Jul-2021 06:43:29 UTC] PHP Warning:  Use of undefined constant BASE_URL - assumed 'BASE_URL' (this will throw an Error in a future version of PHP) in /home/clhnfq6ud8am/public_html/clients/welsbach/demo/index.php on line 335
+[13-Jul-2021 06:44:46 UTC] PHP Notice:  Undefined index: source in /home/clhnfq6ud8am/public_html/clients/welsbach/demo/thanks.php on line 67
+[13-Jul-2021 06:44:46 UTC] PHP Notice:  Undefined variable: alocation in /home/clhnfq6ud8am/public_html/clients/welsbach/demo/thanks.php on line 120
+[13-Jul-2021 06:44:46 UTC] PHP Warning:  Use of undefined constant BASE_URL - assumed 'BASE_URL' (this will throw an Error in a future version of PHP) in /home/clhnfq6ud8am/public_html/clients/welsbach/demo/thanks.php on line 192
+[13-Jul-2021 06:46:05 UTC] PHP Notice:  Undefined index: source in /home/clhnfq6ud8am/public_html/clients/welsbach/demo/thanks.php on line 67
+[13-Jul-2021 06:46:05 UTC] PHP Notice:  Undefined variable: alocation in /home/clhnfq6ud8am/public_html/clients/welsbach/demo/thanks.php on line 120
+[13-Jul-2021 06:46:06 UTC] PHP Warning:  Use of undefined constant BASE_URL - assumed 'BASE_URL' (this will throw an Error in a future version of PHP) in /home/clhnfq6ud8am/public_html/clients/welsbach/demo/thanks.php on line 192
+[13-Jul-2021 06:48:34 UTC] PHP Notice:  Undefined index: source in /home/clhnfq6ud8am/public_html/clients/welsbach/demo/thanks.php on line 67
+[13-Jul-2021 06:48:35 UTC] PHP Warning:  Use of undefined constant BASE_URL - assumed 'BASE_URL' (this will throw an Error in a future version of PHP) in /home/clhnfq6ud8am/public_html/clients/welsbach/demo/thanks.php on line 183
